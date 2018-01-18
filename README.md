@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "dp-florence-eslint-rules/rule-name": 2
+        "dp-florence-eslint-rules/initialise-state-properties": 2
     }
 }
 ```
