@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-dp-florence-eslint-rules",
-  "version": "0.0.0",
-  "description": "ESLint rules for the Office for National Statistics publishing platform, Florence.",
+  "version": "1.0.0",
+  "description": "ESLint rules for the Office for National Statistics publishing platform (Florence)",
   "keywords": [
     "eslint",
     "eslintplugin",
